@@ -1,0 +1,18 @@
+ERORR:	
+
+Not necessary to use "WHILE TRUE" to break can write direct if ==...break
+
+break should be under if print else it will stop the loop it wont loop twice
+
+cant use if while and while true in the same print might not work
+
+
+Else must be under for not under IF statement
+
+
+	LEARN:
+both true to true
+false true False
+
+not(percent > 90)
+calculate bracket first then the ans become the opposite(NOT(!))
